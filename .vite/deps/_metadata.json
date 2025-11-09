@@ -1,0 +1,53 @@
+{
+  "hash": "79564f7d",
+  "browserHash": "db796ef2",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "f8c9509b",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../node_modules/react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "32e01128",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "7464d2ad",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../node_modules/react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "dd8ceb5b",
+      "needsInterop": true
+    },
+    "ethers": {
+      "src": "../../node_modules/ethers/lib.esm/index.js",
+      "file": "ethers.js",
+      "fileHash": "6b51b58f",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "ce5b71b1",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-FZML3KMX": {
+      "file": "chunk-FZML3KMX.js"
+    },
+    "chunk-S3QDT7NU": {
+      "file": "chunk-S3QDT7NU.js"
+    },
+    "chunk-CONZFOQT": {
+      "file": "chunk-CONZFOQT.js"
+    }
+  }
+}

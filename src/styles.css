@@ -1,0 +1,14 @@
+﻿:root{
+  --bg:#0f1724;
+  --card:#111827;
+  --accent:#f59e0b;
+  --text:#e6eef8;
+}
+body{font-family:Inter,Segoe UI,Arial, sans-serif;margin:0;background:var(--bg);color:var(--text)}
+.app{max-width:960px;margin:24px auto;padding:16px}
+.header{display:flex;justify-content:space-between;align-items:center}
+.balance{background:#0b1220;padding:8px 12px;border-radius:8px}
+.lobby,.slot,.wallet-connect{background:var(--card);padding:16px;border-radius:8px;margin-top:12px}
+.reels{display:flex;gap:12px;margin:12px 0}
+.reel{background:#0b1220;padding:24px;border-radius:8px;min-width:64px;text-align:center;font-size:32px}
+.controls button{margin-right:8px}
